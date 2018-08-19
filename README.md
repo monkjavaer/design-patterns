@@ -17,15 +17,16 @@
 定义了对象之间的一对多依赖，这样，当一个对象改变状态时，它的所有依赖者都会收到通知。
 
 ## 3 com.pattern.observer.java包--Java观察者模式
-   被观察者继承Observable类，数据改变要通知观察者时，需先将Observable类中的标志位设为true调用setChanged()，
+    被观察者继承Observable类，数据改变要通知观察者时，需先将Observable类中的标志位设为true调用setChanged()，
 再调用notifyObservers()或者notifyObservers(Object arg)方法，用一个共同的接口update来更新观察者
-   观察者implements接口Observer，观察者构造器中Observable作为参数，以此登记为观察者，
+    观察者implements接口Observer，观察者构造器中Observable作为参数，以此登记为观察者，
 并实现Observer接口的update(Observable o, Object arg)方法，完成业务操作
 
 ## 4 com.pattern.decorator--装饰者模式
 动态的将责任附加到对象上。若要扩展功能，装饰者提供了比继承更加有弹性的替代方案。
 装饰者类反映出被装饰的组件类型，它们具有相同的类型（通过接口或者继承实现）
-你可以用无数个装饰者包装一个组件```组件 instance = new Decorator1(new Decorator2(new Decorator3(new 组件())))```
+你可以用无数个装饰者包装一个组件，如：
+```组件 instance = new Decorator1(new Decorator2(new Decorator3(new 组件())))```
 下面是源码买咖啡的UML图
 ![Image text](https://github.com/tangquanbin/learn-design-patterns/blob/master/img/zs.png)
 #### 设计原则4
