@@ -36,7 +36,7 @@ public class CrruentConditionDisply implements Display,Observer {
     /**
      * 数据更新的时候，调用display打印出来。
      * @param obs 被观察者
-     * @param arg 也可以通过arg参数传递(被观察者数据更新时就要调用notifyObservers(Object arg)方法 )
+     * @param arg 这里使用pull,也可以通过push，arg参数传递(被观察者数据更新时就要调用notifyObservers(Object arg)方法 )
      */
     @Override
     public void update(Observable obs,Object arg) {
