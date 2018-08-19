@@ -24,6 +24,9 @@
 
 ## 4 com.pattern.decorator--装饰者模式
 动态的将责任附加到对象上。若要扩展功能，装饰者提供了比继承更加有弹性的替代方案。
+装饰者类反映出被装饰的组件类型，它们具有相同的类型（通过接口或者继承实现）
+你可以用无数个装饰者包装一个组件```组件 instance = new Decorator1(new Decorator2(new Decorator3(new 组件())))```
+下面是源码买咖啡的UML图
 ![Image text](https://github.com/tangquanbin/learn-design-patterns/blob/master/img/zs.png)
 #### 设计原则4
 对拓展开放，对修改关闭
