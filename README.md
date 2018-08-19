@@ -24,7 +24,7 @@
 
 ## 4 com.pattern.decorator--装饰者模式
 动态的将责任附加到对象上。若要扩展功能，装饰者提供了比继承更加有弹性的替代方案。
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/tangquanbin/learn-design-patterns/blob/master/img/zs.png)
 #### 设计原则4
 对拓展开放，对修改关闭
 java IO中如InputStream就是一个抽象主键，FileInputStream是一个具体组件,FilterInputStream就是一个装饰者，
