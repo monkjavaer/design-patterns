@@ -1,6 +1,7 @@
 package com.pattern.factory.factory;
 
 import com.pattern.factory.Pizza;
+import com.pattern.factory.Type;
 
 /**
  * 芝加哥加盟店
@@ -12,7 +13,7 @@ public class ChicagoPizzaStore extends PizzaStore {
     @Override
     Pizza createPizza(String type) {
         Pizza pizza = null;
-        if("cheese".equals(type)){
+        if(Type.cheese.name.equals(type)){
             pizza = new ChicagoCheesePizza();
         }
         return pizza;
