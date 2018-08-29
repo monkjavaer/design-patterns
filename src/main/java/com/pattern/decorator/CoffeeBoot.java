@@ -1,7 +1,5 @@
 package com.pattern.decorator;
 
-import java.io.FileInputStream;
-
 /**
  * 买咖啡
  * @author tangquanbin
