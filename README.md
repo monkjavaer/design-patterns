@@ -1,4 +1,4 @@
-# 《Head First 设计模式》-----温故而知新
+# 《Head First 设计模式》---总结
 好的OO设计必须具备可复用，可扩充，可维护三个特性。
 
 ## 包结构说明
@@ -65,3 +65,5 @@ BufferedInputStream就是继承于FilterInputStream的具体装饰者。
 
 ## 7、com.pattern.adapter 适配器模式
 适配器模式:将一个类的接口，转换成客户期望的另一个接口，让不兼容的接口变成兼容。
+
+## 8、com.pattern.proxy jdk动态代理
