@@ -67,3 +67,4 @@ BufferedInputStream就是继承于FilterInputStream的具体装饰者。
 适配器模式:将一个类的接口，转换成客户期望的另一个接口，让不兼容的接口变成兼容。
 
 ## 8、com.pattern.proxy jdk动态代理
+代理模式:为另一个对象提供一个替身或者占位符以控制对这个对象的访问。
