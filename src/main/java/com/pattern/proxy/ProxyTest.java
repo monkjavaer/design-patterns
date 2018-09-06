@@ -9,11 +9,15 @@ import java.lang.reflect.Proxy;
  */
 public class ProxyTest {
     public static void main(String[] args) {
-        People xiaoMing = new XiaoMing();
-        InvocationHandlerImpl handler1 = new InvocationHandlerImpl(xiaoMing);
-        ClassLoader classLoader1 = xiaoMing.getClass().getClassLoader();
-        Class[] interfaces1 = xiaoMing.getClass().getInterfaces();
-        People people1 = (People) Proxy.newProxyInstance(classLoader1, interfaces1, handler1);
-        people1.eat();
+        People people = new XiaoMing();
+        InvocationHandlerImpl handler1 = new InvocationHandlerImpl(people);
+        //类加载器
+        ClassLoader classLoader1 = people.getClass().getClassLoader();
+        //得到全部的接口
+        Class[] interfaces1 = people.getClass().getInterfaces();
+        //返回代理类的一个实例
+        People peopleProxy = (People) Proxy.newProxyInstance(classLoader1, interfaces1, handler1);
+
+        peopleProxy.eat();
     }
 }
