@@ -4,7 +4,7 @@ import java.lang.reflect.Proxy;
 
 /**
  * 小明吃饭
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/8/31 15:53
  */
 public class ProxyTest {

@@ -2,7 +2,7 @@ package com.pattern.observer.one;
 
 /**
  * 目前天气状况展板
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/18 15:11
  */
 public class CrruentConditionDisply implements Display,Observer{

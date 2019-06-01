@@ -6,7 +6,7 @@ import java.lang.reflect.Method;
 
 /**
  * 使用Cglib定义不同的拦截策略
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/9/6 15:47
  */
 public class MyCallbackFilter implements CallbackFilter {

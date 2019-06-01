@@ -2,7 +2,7 @@ package com.pattern.proxy;
 
 
 /**
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/8/31 15:47
  */
 public class XiaoMing implements People {

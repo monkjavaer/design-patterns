@@ -2,7 +2,7 @@ package com.pattern.decorator;
 
 /**
  * 奶油
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/19 11:06
  */
 public class Whip extends CondimentDecorator{

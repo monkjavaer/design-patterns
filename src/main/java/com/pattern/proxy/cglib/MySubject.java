@@ -2,7 +2,7 @@ package com.pattern.proxy.cglib;
 
 
 /**
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/9/6 13:58
  */
 public class MySubject {

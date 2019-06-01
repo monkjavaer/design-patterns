@@ -5,7 +5,7 @@ import com.pattern.factory.Type;
 
 /**
  * 简单披萨工厂
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/25 11:03
  */
 public class SimplePizzaFactory {

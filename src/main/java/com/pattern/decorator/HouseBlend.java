@@ -2,7 +2,7 @@ package com.pattern.decorator;
 
 /**
  * 混合咖啡
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/19 10:59
  */
 public class HouseBlend extends Beverage{

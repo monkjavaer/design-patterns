@@ -4,7 +4,7 @@ import com.pattern.strategy.weapon.WeaponBehavior;
 
 /**
  * 角色抽象类
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/18 10:35
  */
 public abstract class BaseCharacter {

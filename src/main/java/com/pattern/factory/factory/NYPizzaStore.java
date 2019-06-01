@@ -5,7 +5,7 @@ import com.pattern.factory.Type;
 
 /**
  * 纽约加盟店
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/25 21:00
  */
 public class NYPizzaStore extends PizzaStore{

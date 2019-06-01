@@ -28,7 +28,7 @@
 你可以用无数个装饰者包装一个组件，如：
 ```组件 instance = new Decorator1(new Decorator2(new Decorator3(new 组件())))```
 下面是源码买咖啡的UML图
-![Image text](https://github.com/tangquanbin/learn-design-patterns/blob/master/img/zs.png)
+![Image text](https://github.com/monkjavaer/learn-design-patterns/blob/master/img/zs.png)
 #### 设计原则4
 对拓展开放，对修改关闭
 java IO中如InputStream就是一个抽象主键，FileInputStream是一个具体组件,FilterInputStream就是一个装饰者，

@@ -4,7 +4,7 @@ import com.pattern.factory.Pizza;
 
 /**
  * 纽约口味芝士披萨
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/25 21:05
  */
 public class NYCheesePizza extends Pizza {

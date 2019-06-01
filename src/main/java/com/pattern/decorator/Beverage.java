@@ -2,7 +2,7 @@ package com.pattern.decorator;
 
 /**
  * 饮料
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/18 22:02
  */
 public abstract class Beverage {

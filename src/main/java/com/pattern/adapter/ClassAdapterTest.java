@@ -2,7 +2,7 @@ package com.pattern.adapter;
 
 /**
  * 通过适配器将3.5mm接口转换为type-c接口
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/29 22:11
  */
 public class ClassAdapterTest {

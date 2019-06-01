@@ -3,7 +3,7 @@ package com.pattern.observer.java;
 
 /**
  * 启动气象站
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/18 15:24
  */
 public class StartBoot {

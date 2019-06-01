@@ -4,7 +4,7 @@ import com.pattern.factory.Pizza;
 
 /**
  * 披萨店
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/25 11:32
  */
 public class PizzaStore {

@@ -2,7 +2,7 @@ package com.pattern.observer.one;
 
 /**
  * 观察者接口
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/18 14:38
  */
 public interface Observer {

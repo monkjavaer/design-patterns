@@ -4,7 +4,7 @@ import java.util.Observable;
 
 /**
  * 气象站
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/18 14:49
  */
 public class WheatherData extends Observable {

@@ -2,7 +2,7 @@ package com.pattern.adapter;
 
 /**
  * 手机Type-c接口
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/29 21:45
  */
 public class PhoneTpyeC implements TypeC {

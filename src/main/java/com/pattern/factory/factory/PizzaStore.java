@@ -5,7 +5,7 @@ import com.pattern.factory.Pizza;
 /**
  * 给披萨店使用框架，方便各地加盟店
  *
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/25 20:55
  */
 public abstract class PizzaStore {

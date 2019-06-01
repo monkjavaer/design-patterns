@@ -3,7 +3,7 @@ package com.pattern.factory.simple;
 import com.pattern.factory.Type;
 
 /**
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/25 11:36
  */
 public class SimpleTest {

@@ -4,7 +4,7 @@ import com.pattern.factory.Pizza;
 import com.pattern.factory.Type;
 
 /**
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/25 21:16
  */
 public class PizzaBoot {

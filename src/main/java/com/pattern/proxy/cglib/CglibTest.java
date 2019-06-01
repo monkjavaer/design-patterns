@@ -10,7 +10,7 @@ import net.sf.cglib.proxy.NoOp;
  * http://www.cnblogs.com/jqyp/archive/2010/08/20/1805041.html
  * http://www.iteye.com/topic/1116696
  * http://shensy.iteye.com/blog/1881130
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/9/6 13:59
  */
 public class CglibTest {

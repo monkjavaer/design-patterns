@@ -2,7 +2,7 @@ package com.pattern.factory;
 
 /**
  *
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/25 21:41
  */
 public enum Type {

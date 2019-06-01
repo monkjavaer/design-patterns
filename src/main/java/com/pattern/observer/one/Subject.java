@@ -3,7 +3,7 @@ package com.pattern.observer.one;
 
 /**
  * 主题接口
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/18 14:35
  */
 public interface Subject {

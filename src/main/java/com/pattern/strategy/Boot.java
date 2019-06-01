@@ -8,7 +8,7 @@ import com.pattern.strategy.weapon.SwordBehavior;
 /**
  * 策略模式：定义了算法簇，分别封装起来，让他们之间可以互相替换，让算法簇的变化独立于使用算法的客户。
  * test
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/18 10:44
  */
 public class Boot {

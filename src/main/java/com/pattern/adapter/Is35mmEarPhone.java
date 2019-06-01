@@ -2,7 +2,7 @@ package com.pattern.adapter;
 
 /**
  * 耳机 : 3.5mm接口
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/29 21:32
  */
 public interface Is35mmEarPhone {

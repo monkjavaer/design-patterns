@@ -2,7 +2,7 @@ package com.pattern.strategy.weapon;
 
 /**
  * 宝剑
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/18 11:35
  */
 public class SwordBehavior implements WeaponBehavior {

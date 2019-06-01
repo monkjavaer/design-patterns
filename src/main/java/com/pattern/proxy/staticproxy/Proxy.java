@@ -2,7 +2,7 @@ package com.pattern.proxy.staticproxy;
 
 /**
  * 代理类
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/09/05 22:20
  */
 public class Proxy implements Subject {

@@ -3,7 +3,7 @@ package com.pattern.singleton;
 /**
  *
  * 懒汉模式（处理多线程）synchronized同步会降低性能。
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/08/27 22:21
  */
 public class Singleton3 {

@@ -2,7 +2,7 @@ package com.pattern.proxy.staticproxy;
 
 /**
  * 测试
- * @author tangquanbin
+ * @author monkjavaer
  * @date 2018/09/05 22:22
  */
 public class ProxyTest {
